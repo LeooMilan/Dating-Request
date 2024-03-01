@@ -64,5 +64,5 @@ body {
     font-family: 'cursive';
     font-style: italic;
     color: #ff00bf;
-    text-shadow: 1px 1px #000;
+    font-weight: bold;
 }
